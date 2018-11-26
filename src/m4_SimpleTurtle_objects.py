@@ -118,16 +118,6 @@ natasha.pen = rg. Pen('blue', 20)
 natasha.right(222)
 natasha.forward(233)
 
-james = rg.SimpleTurtle('turtle')
-james.pen = rg.Pen('yellow', 60)
-james.speed = 2
-
-james.forward(20)
-james.right(30)
-james.forward(20)
-james.right(30)
-james.forward(20)
-james.right(30)
 
 ###############################################################################
 #
@@ -141,7 +131,34 @@ james.right(30)
 #   As always, test by running the module.
 #
 ###############################################################################
+james = rg.SimpleTurtle('turtle')
+james.pen = rg.Pen('yellow', 30)
+james.speed = 2
 
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
+james.forward(20)
+james.right(30)
 ###############################################################################
 #
 # TODO: 5.
